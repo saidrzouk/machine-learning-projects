@@ -1,0 +1,18 @@
+﻿# Root-level ignore rules for the mushroom project
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Generated artifacts
+models/*.pkl
+results/*.json
+results/*.txt

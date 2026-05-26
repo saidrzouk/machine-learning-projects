@@ -1,0 +1,23 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.env.*
+
+.streamlit/
+.DS_Store
+Thumbs.db
+
+# Generated artifacts
+models/*.pkl
+models/*.keras
+results/*.json
+results/*.txt
+results/*.csv
+results/*.log
