@@ -21,10 +21,8 @@ A portfolio of machine learning and deep learning projects built with Python —
 | 06 | [Medical Insurance Cost Predictor](./06-Medical%20Insurance%20Cost) | Regression | R²: 0.85 | Scikit-learn, Streamlit |
 | 07 | [Movie Review Sentiment Analyzer](./07-Movie%20Review%20Sentiment) | NLP | 93.6% | Scikit-learn, NLTK |
 | 08 | [Amazon Product Review Analyzer](./08-Amazon%20product%20Review) | NLP | 91.8% | Scikit-learn, NLTK |
-| 09 | [CIFAR-10 Image Classifier](./09-Cifar%20Recognition) | Computer Vision | 84.3% | TensorFlow, Keras |
+| 09 | [Handwritten Digit Classifier](./09-Handwritten%20Digit%20Classifier) | Computer Vision | 98.5% | Scikit-learn, Streamlit |
 | 10 | [Fashion MNIST Classifier](./10-Fashion%20mnist%20classifier) | Computer Vision | 91.7% | TensorFlow, Keras |
-
-> ⚠️ Replace accuracy numbers above with your actual results from each notebook.
 
 ---
 
